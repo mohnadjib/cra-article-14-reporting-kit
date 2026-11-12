@@ -15,6 +15,8 @@ Article 14 reporting has applied since **11 September 2026**. If a vulnerability
 
 Prefer to have the files sent to your inbox? The same kit is available as a free download on Payhip: https://payhip.com/b/xhMeB
 
+Need the complete pack? The Full Pack adds the 72-hour notification, two final-report templates, a user advisory template, three worked examples, roles and on-call guidance, and a register that works out every deadline (paid, one company licence): https://payhip.com/b/INbz2
+
 ## Who this is for
 
 Manufacturers (hardware or software) of products with digital elements sold in the EU, including products already on the market. Product security leads, compliance officers and small teams that do not yet have a runbook for the first 24 hours.
