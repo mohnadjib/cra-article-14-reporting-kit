@@ -11,6 +11,10 @@ Article 14 reporting has applied since **11 September 2026**. If a vulnerability
 | `CRA-Article14-Reporting-Kit-Lite.pdf` | 4-page guide: the reporting clock, a four-question "do we have to report this?" decision guide, which coordinating CSIRT to select, and a set-up checklist for ENISA's Single Reporting Platform |
 | `CRA-Article14-Early-Warning-Template.docx` | Editable Word template: early-warning content, a four-timestamp clock log, deadline table and sign-off |
 
+## Get it by email
+
+Prefer to have the files sent to your inbox? The same kit is available as a free download on Payhip: https://payhip.com/b/xhMeB
+
 ## Who this is for
 
 Manufacturers (hardware or software) of products with digital elements sold in the EU, including products already on the market. Product security leads, compliance officers and small teams that do not yet have a runbook for the first 24 hours.
